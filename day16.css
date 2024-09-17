@@ -1,0 +1,200 @@
+body{
+    margin-left:150px;
+    margin-top: 20px;
+    background-image: url(./kajal\ background.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main_container{
+    border:2px solid;
+    height:600PX;
+    width:350px;
+    border-radius: 10px;
+    border:none;
+}
+.a{
+    display: flex;
+    border: 2px solid;
+    height:30px;
+    justify-content: space-between;
+    align-items: center;
+    border: none;
+}
+#a2{
+    margin-right: 100px;
+}
+.b{
+    border: 2px solid;
+    height:70px;
+    display: flex;
+    justify-content: space-around;
+    border: none;
+}
+.b1{
+    border:1px solid;
+    height:54px;
+    margin-top: 7px;
+    width:53px;
+    margin-left: 10px;
+    border-radius: 50%;
+    background-image: url(./kajal7.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.b2{
+    border:2px solid;
+    height:68px;
+    width:50px;
+    justify-items: center;
+    align-items: center;
+    border: none;
+}
+
+.b3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 15px;
+}
+.c{
+    border: 2px solid;
+    height:70px;
+    display: flex;
+    flex-direction: column;
+    border: none;
+}
+.d{
+    border: 2px solid;
+    height:30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: none;
+}
+.d1{
+    border:1px solid;
+    width:60px;
+    justify-content: center;
+    border: none;
+    margin-left: 30px
+}
+.e{
+    border: 1px solid;
+    height:80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border:navajowhite
+}
+.e1{
+    border: 1px solid;
+    height:50px;
+    width:50px;
+    border-radius: 50%;
+}
+.f{
+    border: 1px solid;
+    height:40px;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    border:none;
+}
+.g{
+    border: 1px solid;
+    height:233px;
+    display:grid;
+    grid-template-columns: auto auto auto;
+    border:none;
+}
+.g1{
+    border: 1px solid;
+}
+.g11{
+    background-image: url(./kajal1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: 2s;
+}
+.g22{
+    background-image: url(./kajal2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: 2s;
+}
+.g33{
+    background-image: url(./kajal3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: 2s;
+}
+.g44{
+    background-image: url(./kajal4.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: 2s;
+}
+.g55{
+    background-image: url(./kajal5.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: 2s;
+}
+.g66{
+    background-image: url(./kajal6.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: 2s;
+}
+.g1:hover{
+    transform:scale(1.5);
+}
+.e11{
+    background-image: url(./ishaan.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.e22{
+    background-image: url(./travel.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.e33{
+    background-image: url(./fashion.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.e44{
+    background-image: url(./kitched.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.e55{
+    background-image: url(./love.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.h{
+    border: 1px solid;
+    height:40px;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    border: none;
+}
+.main_container:hover{
+    background-color: white;
+}
